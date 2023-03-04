@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExamenP1_GVR</string>
+    <string name="cinepolis_altama">Cinépolis Altama</string>
+    <string name="la_capital_del_cine">La capital del cine</string>
+    <string name="ant_man_and_the_wasp_quantunmania">Ant-Man and The Wasp: Quantunmania</string>
+    <string name="ant_man_and_the_wasp_quantunmania_eua_2023">Ant-Man and The Wasp: Quantunmania (EUA, 2023)</string>
+    <string name="por_favor_seleccione_un_horario">Por favor seleccione un horario: </string>
+    <string name="comprar_boletos">COMPRAR BOLETOS</string>
+</resources>
